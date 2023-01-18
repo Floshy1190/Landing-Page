@@ -1,0 +1,32 @@
+div.header {
+    background-color: crimson;
+    font-size:xx-large;
+    font-family:fantasy
+}
+div.header-right {
+    text-align: right;
+    font-size: medium;
+}
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-evenly;
+}
+.section {
+    background-color:cornflowerblue;
+    width: auto;
+  height: auto;
+  margin: 10px;
+  padding: 25px;
+  border: auto;
+}
+.paragraph {
+    background-color: darkgrey;
+    height: auto;
+    width: 400px;
+}
+.modal {
+    background-color:steelblue;
+    padding: 40px 
+}
